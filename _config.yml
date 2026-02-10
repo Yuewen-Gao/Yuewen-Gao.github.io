@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+title                    : "Yuewen Gao | HCI Researcher in Progress"
 description              : "Keep thy heart with all diligence; for out of it are the issues of life."
 repository               : "Yuewen-Gao/Yuewen-Gao.github.io"
 google_scholar_stats_use_cdn : true
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuewen Gao"
-  avatar           : "images\Longji with Xuwen.jpg"
+  avatar           : "images/Longji with Xuwen.jpg"
   bio              : "Nanjing University"
   location         : "Suzhou, China"
   employer         :

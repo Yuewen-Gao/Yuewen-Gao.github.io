@@ -16,14 +16,21 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-! My name is **Yuewen Gao**. I'm currently a junior at School of Intelligence Science and Technology, <a href='nju.edu.cn'>Nanjing University (NJU)</a>. I'm fortunate to be supervised by <a href='https://lukexuke.github.io/'>Prof. Ke Xu</a>, and mentored by <a href='https://wenchao.li/#about_me'>Dr. Wenchao Li</a>. .
+I am <strong>Yuewen Gao</strong>, a junior at the School of Intelligence Science and Technology, 
+<a href="https://www.nju.edu.cn/">Nanjing University (NJU)</a>. 
+Supervised by <a href="https://lukexuke.github.io/">Prof. Ke Xu</a> 
+and mentored by <a href="https://wenchao.li/#about_me">Dr. Wenchao Li</a>, 
+I have embarked on my research journey in the fields of HCI and VIS.
 
-My research interest lies, broadly, in **Human-AI Collaboration**, **Visualization**, **Computational Interaction**, aiming to enhance human welfare through technology. I bridge the gap between human cognition and machine intelligence through two pillars:
+My research interest lies, broadly, in **Human-AI Collaboration**, **Visualization** and **Computational Interaction**, aiming to enhance human welfare through technology. I bridge the gap between human cognition and machine intelligence through two pillars:
 
 - **Empirical Understanding of Human Cognition**: I conduct empirical studies and experiments to uncover how humans perceive information and express creativity, establishing a psychological foundation for AI collaboration.
 - **Human-Centric AI & Computational Interaction**: I develop generative and interactive systems that understand human intent and augment user agency in complex creative tasks.
 
-I'm actively seeking potential research internship opportunity in the United States, Singapore and Hong Kong. If my background aligns with your interests or if you have positions for **Summer Research Intern 2026** or any interesting topics, I would be very happy to connect. Feel free to reach out to me, let's go together to **Make the Impossible Possible and the Possible Easy.**
+<p>
+  <strong>Seeking Summer 2026 Research Internships</strong> (US, Singapore, or Hong Kong). 
+  If my background aligns with your work, I would love to <a href="mailto:yuewen_gao@smail.nju.edu.cn">connect</a>.
+</p>
 
 
 # 🔥 News
