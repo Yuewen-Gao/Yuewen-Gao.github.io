@@ -16,43 +16,62 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+! My name is **Yuewen Gao**. I'm currently a junior at School of Intelligence Science and Technology, <a href='nju.edu.cn'>Nanjing University (NJU)</a>. I'm fortunate to be supervised by <a href='https://lukexuke.github.io/'>Prof. Ke Xu</a>, and mentored by <a href='https://wenchao.li/#about_me'>Dr. Wenchao Li</a>. .
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My research interest lies, broadly, in **Human-AI Collaboration**, **Visualization**, **Computational Interaction**, aiming to enhance human welfare through technology. I bridge the gap between human cognition and machine intelligence through two pillars:
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+- **Empirical Understanding of Human Cognition**: I conduct empirical studies and experiments to uncover how humans perceive information and express creativity, establishing a psychological foundation for AI collaboration.
+- **Human-Centric AI & Computational Interaction**: I develop generative and interactive systems that understand human intent and augment user agency in complex creative tasks.
+
+I'm actively seeking potential research internship opportunity in the United States, Singapore and Hong Kong. If my background aligns with your interests or if you have positions for **Summer Research Intern 2026** or any interesting topics, I would be very happy to connect. Feel free to reach out to me, let's go together to **Make the Impossible Possible and the Possible Easy.**
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+- _2026.1_: 🎉🎉 My collaborative work **NetworkCanvas** is conditionally accepted by CHI 2026. Many thanks to my wonderful collaborators!
+- _2025.11_: 🎉🎉 I start my journey in THU as an research intern!
+- _2025.03_: 🎉🎉 I start my journey in NJU as an research intern!
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026 (Conditionally Accepted)</div><img src='images/networkcanvas.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+NetworkCanvas: Supporting Progressive Network Visualization Exploration via
+Adaptive Recommendations
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Wenchao Li, **Yuewen Gao**, Yu He, Cong Zhu, Ke Xu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+_NetworkCanvas is an adaptive, AI-assisted exploration system for complex networks. It combines interactive visualization, recommendation guidance, and a traceable exploration history tree to support progressive, explainable network analysis._
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DIS 2026 (Under Review)</div><img src='images/newstract.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Multimodal Analysis of News Videos: Event-based Visual Summarization
+over Serial Broadcasts
+
+**Yuewen Gao**, Yu He, Xianglei Lv, Yingying Dong, Ke Xu
+
+_NewsTract is a multimodal news intelligence system that segments video news into atomic events, extracts key semantic signals, and models event relations. It provides an interactive visualization interface for exploring complex news narratives and uncovering hidden event connections._
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11* Nanjing University People’s Scholarship. 
+- *2024.11* Nanjing University People’s Scholarship. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - Now*, Nanjing University, School of Intelligence Science and Technology. 
 
-# 💬 Invited Talks
+<!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- *2025.11 - Now*, Research Intern, [Pi Lab](https://pi.cs.tsinghua.edu.cn/), collaborating with [Chang Liu](https://liuchang-portfolio.com/), Tsinghua University.
+- *2025.03 - Now*, Research Intern, iMATE Lab, advised by Prof. Ke Xu, Nanjing University.
