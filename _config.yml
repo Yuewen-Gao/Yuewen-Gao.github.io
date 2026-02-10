@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuewen Gao"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/Longji with Xuwen.jpg"
   bio              : "Nanjing University"
   location         : "Suzhou, China"
   employer         :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : https://orcid.org/0009-0009-4258-5952
+  orcid            : "https://orcid.org/0009-0009-4258-5952"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
