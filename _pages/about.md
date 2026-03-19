@@ -22,10 +22,14 @@ Supervised by <a href="https://lukexuke.github.io/">Prof. Ke Xu</a>
 and mentored by <a href="https://wenchao.li/#about_me">Dr. Wenchao Li</a>, 
 I have embarked on my research journey in the fields of HCI and VIS.
 
-My research interest lies, broadly, in **Human-AI Collaboration**, **Visualization** and **Computational Interaction**, aiming to enhance human welfare through technology. I bridge the gap between human cognition and machine intelligence through two pillars:
+My research interest lies, broadly, in **Human-AI Collaboration**, **Visualization** and **Computational Interaction**, I am driven by a vision to build intelligent systems that move beyond task automation toward a more fluid, agency-preserving synergy between human cognition and machine intelligence.
 
-- **Empirical Understanding of Human Cognition**: I conduct empirical studies and experiments to uncover how humans perceive information and express creativity, establishing a psychological foundation for AI collaboration.
-- **Human-Centric AI & Computational Interaction**: I develop generative and interactive systems that understand human intent and augment user agency in complex creative tasks.
+I ground this vision in three core research pillars:
+
+- **Human-Centric AI & Computational Interaction**: I develop generative and adaptive interactive systems that infer user intent and support complex sensemaking and creative tasks.
+- **Visualization and Intelligent Exploration**: I create scalable and AI-augmented visualization systems that facilitate progressive knowledge discovery from multimodal data.
+- **Cognitive Foundations of Interaction**: I conduct empirical and system-driven studies to understand how cognitive principles shape interaction, and I translate these insights into the design of foundational human-centered interfaces.
+
 
 <p>
   <strong>Seeking Summer 2026 Research Internships</strong> (US, Singapore, or Hong Kong). 
@@ -35,7 +39,7 @@ My research interest lies, broadly, in **Human-AI Collaboration**, **Visualizati
 
 # 🔥 News
 
-- _2026.1_: 🎉🎉 My collaborative work **NetworkCanvas** is conditionally accepted by CHI 2026. Many thanks to my wonderful collaborators!
+- _2026.03_: 🎉🎉 My collaborative work **NetworkCanvas** is accepted by CHI 2026. Many thanks to my wonderful collaborators!
 - _2025.11_: 🎉🎉 I start my journey in THU as an research intern!
 - _2025.03_: 🎉🎉 I start my journey in NJU as an research intern!
 
@@ -69,6 +73,7 @@ _NewsTract is a multimodal news intelligence system that segments video news int
 
 # 🎖 Honors and Awards
 - *2025.11* Nanjing University People’s Scholarship. 
+- *2025.01* Honorable Mention, Mathematical Contest in Modeling 2025.
 - *2024.11* Nanjing University People’s Scholarship. 
 
 # 📖 Educations
