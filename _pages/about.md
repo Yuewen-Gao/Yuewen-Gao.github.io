@@ -20,19 +20,19 @@ I am <strong>Yuewen Gao</strong>, a senior undergraduate at the School of Intell
 <a href="https://www.nju.edu.cn/">Nanjing University (NJU)</a>. 
 Supervised by <a href="https://lukexuke.github.io/">Prof. Ke Xu</a> 
 and mentored by <a href="https://wenchao.li/#about_me">Dr. Wenchao Li</a>, 
-I have embarked on my research journey in the fields of HCI and VIS.
+I have embarked on my research journey in the fields of HCI.
 
-My research interest lies, broadly, in **Human-AI Collaboration**, **Visualization** and **Computational Interaction**, I am driven by a vision to build intelligent systems that move beyond task automation toward a more fluid, agency-preserving synergy between human cognition and machine intelligence.
+My research interest lies, broadly, in **Human-AI Collaboration**, I am driven by a vision to build intelligent systems that move beyond task automation toward a more fluid, agency-preserving synergy between human cognition and machine intelligence.
 
 I ground this vision in three core research pillars:
 
-- **Human-Centric AI & Computational Interaction**: Investigating adaptive agents that dynamically align with human cognitive architectures and value systems, fostering mutual understanding while safeguarding human agency in open-ended tasks.
+- **Human-Centric AI**: Investigating adaptive agents that dynamically align with human cognitive architectures, fostering mutual understanding while safeguarding human agency in open-ended tasks.
 - **Visualization and Intelligent Exploration**: Creating scalable and AI-augmented visualization systems to facilitate progressive knowledge discovery from multimodal data.
 - **Cognitive Foundations of Interaction**: Grounding human-system interaction in empirical cognitive theories to derive foundational design principles for next-generation interfaces.
 
 
 <p>
-  <strong>Applying Fall 2027 PhD & MPhill Position</strong> (US, Singapore, or Hong Kong). 
+  <strong>Seeking Fall 2027 Ph.D. and M.Phil. opportunities in NLP and HCI</strong>(US, Singapore, or Hong Kong). 
   If my background aligns with your work, I would love to <a href="mailto:yuewen_gao@smail.nju.edu.cn">connect</a>.
 </p>
 
@@ -67,6 +67,15 @@ ProactiveFlow: Coordinating Proactive AI Support for Sketch-Based Ideation
 
   </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/networkcanvas.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+NetworkCanvas: Supporting Progressive Network Visualization Exploration via
+Adaptive Recommendations
+Wenchao Li, **Yuewen Gao**, Yu He, Cong Zhu, Ke Xu
+NetworkCanvas is an adaptive, AI-assisted exploration system for complex networks. It combines interactive visualization, recommendation guidance, and a traceable exploration history tree to support progressive, explainable network analysis.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF CAD/CG</div><img src='images/newstract.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -95,6 +104,6 @@ _NewsTract is a multimodal news intelligence system that segments video news int
 
 # 💻 Internships
 
-- - *2026.07 - Now*, Research Assistant, [NEU HAI Lab](https://hailab.io/), advised by [Prof. Arthur Yao](https://www.bingshengyao.com/).
+- *2026.07 - Now*, Research Assistant, [NEU HAI Lab](https://hailab.io/), advised by [Prof. Arthur Yao](https://www.bingshengyao.com/).
 - *2025.11 - 2026.01*, Research Intern, [Pi Lab](https://pi.cs.tsinghua.edu.cn/), collaborating with [Chang Liu](https://liuchang-portfolio.com/), Tsinghua University.
 - *2025.03 - Now*, Research Intern, iMATE Lab, advised by [Prof. Ke Xu](https://lukexuke.github.io), Nanjing University.
