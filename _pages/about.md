@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am <strong>Yuewen Gao</strong>, a junior at the School of Intelligence Science and Technology, 
+I am <strong>Yuewen Gao</strong>, a senior undergraduate at the School of Intelligence Science and Technology, 
 <a href="https://www.nju.edu.cn/">Nanjing University (NJU)</a>. 
 Supervised by <a href="https://lukexuke.github.io/">Prof. Ke Xu</a> 
 and mentored by <a href="https://wenchao.li/#about_me">Dr. Wenchao Li</a>, 
@@ -26,39 +26,49 @@ My research interest lies, broadly, in **Human-AI Collaboration**, **Visualizati
 
 I ground this vision in three core research pillars:
 
-- **Human-Centric AI & Computational Interaction**: I develop generative and adaptive interactive systems that infer user intent and support complex sensemaking and creative tasks.
-- **Visualization and Intelligent Exploration**: I create scalable and AI-augmented visualization systems that facilitate progressive knowledge discovery from multimodal data.
-- **Cognitive Foundations of Interaction**: I conduct empirical and system-driven studies to understand how cognitive principles shape interaction, and I translate these insights into the design of foundational human-centered interfaces.
+- **Human-Centric AI & Computational Interaction**: Investigating adaptive agents that dynamically align with human cognitive architectures and value systems, fostering mutual understanding while safeguarding human agency in open-ended tasks.
+- **Visualization and Intelligent Exploration**: Creating scalable and AI-augmented visualization systems to facilitate progressive knowledge discovery from multimodal data.
+- **Cognitive Foundations of Interaction**: Grounding human-system interaction in empirical cognitive theories to derive foundational design principles for next-generation interfaces.
 
 
 <p>
-  <strong>Seeking Summer 2026 Research Internships</strong> (US, Singapore, or Hong Kong). 
+  <strong>Applying Fall 2027 PhD & MPhill Position</strong> (US, Singapore, or Hong Kong). 
   If my background aligns with your work, I would love to <a href="mailto:yuewen_gao@smail.nju.edu.cn">connect</a>.
 </p>
 
 
 # 🔥 News
 
+- _2026.07_: 🎉🎉 I start my journey in NEU as a research assistant!
 - _2026.03_: 🎉🎉 My collaborative work **NetworkCanvas** is accepted by CHI 2026. Many thanks to my wonderful collaborators!
-- _2025.11_: 🎉🎉 I start my journey in THU as an research intern!
-- _2025.03_: 🎉🎉 I start my journey in NJU as an research intern!
+- _2025.03_: 🎉🎉 I start my journey in NJU as a research intern!
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026 (Conditionally Accepted)</div><img src='images/networkcanvas.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-NetworkCanvas: Supporting Progressive Network Visualization Exploration via
-Adaptive Recommendations
 
-Wenchao Li, **Yuewen Gao**, Yu He, Cong Zhu, Ke Xu
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CHI 2027 Under Review</div>
+      <img src='images/proactiveflow.png'
+           alt="ProactiveFlow system interface"
+           width="100%">
+    </div>
+  </div>
 
-_NetworkCanvas is an adaptive, AI-assisted exploration system for complex networks. It combines interactive visualization, recommendation guidance, and a traceable exploration history tree to support progressive, explainable network analysis._
+  <div class='paper-box-text' markdown="1">
 
+ProactiveFlow: Coordinating Proactive AI Support for Sketch-Based Ideation
+
+**Yuewen Gao**, Wenchao Li, Yiqing Yang, Lejia Li, Yutong Wu, Ke Xu
+
+*ProactiveFlow is a sketch-based proactive AI assistant that uses interaction traces and canvas context to coordinate whether, when, and what support to provide—including when not to intervene. Informed by flow theory, it combines adaptive timing with context-aware divergent and convergent support to assist creative ideation while preserving user agency.*
+
+  </div>
 </div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DIS 2026 (Under Review)</div><img src='images/newstract.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF CAD/CG</div><img src='images/newstract.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Multimodal Analysis of News Videos: Event-based Visual Summarization
@@ -85,5 +95,6 @@ _NewsTract is a multimodal news intelligence system that segments video news int
 
 # 💻 Internships
 
-- *2025.11 - Now*, Research Intern, [Pi Lab](https://pi.cs.tsinghua.edu.cn/), collaborating with [Chang Liu](https://liuchang-portfolio.com/), Tsinghua University.
-- *2025.03 - Now*, Research Intern, iMATE Lab, advised by Prof. Ke Xu, Nanjing University.
+- - *2026.07 - Now*, Research Assistant, [NEU HAI Lab](https://hailab.io/), advised by [Prof. Arthur Yao](https://www.bingshengyao.com/).
+- *2025.11 - 2026.01*, Research Intern, [Pi Lab](https://pi.cs.tsinghua.edu.cn/), collaborating with [Chang Liu](https://liuchang-portfolio.com/), Tsinghua University.
+- *2025.03 - Now*, Research Intern, iMATE Lab, advised by [Prof. Ke Xu](https://lukexuke.github.io), Nanjing University.
