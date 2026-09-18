@@ -32,7 +32,7 @@ I ground this vision in three core research pillars:
 
 
 <p>
-  <strong>Seeking Fall 2027 Ph.D. and M.Phil. opportunities in NLP and HCI</strong>(US, Singapore, or Hong Kong). 
+  <strong>Seeking Fall 2027 Ph.D. and M.Phil. opportunities in NLP and HCI</strong> (US, Singapore, or Hong Kong). 
   If my background aligns with your work, I would love to <a href="mailto:yuewen_gao@smail.nju.edu.cn">connect</a>.
 </p>
 
@@ -63,7 +63,7 @@ ProactiveFlow: Coordinating Proactive AI Support for Sketch-Based Ideation
 
 **Yuewen Gao**, Wenchao Li, Yiqing Yang, Lejia Li, Yutong Wu, Ke Xu
 
-*ProactiveFlow is a sketch-based proactive AI assistant that uses interaction traces and canvas context to coordinate whether, when, and what support to provide—including when not to intervene. Informed by flow theory, it combines adaptive timing with context-aware divergent and convergent support to assist creative ideation while preserving user agency.*
+_ProactiveFlow is a sketch-based proactive AI assistant that uses interaction traces and canvas context to coordinate whether, when, and what support to provide—including when not to intervene. Informed by flow theory, it combines adaptive timing with context-aware divergent and convergent support to assist creative ideation while preserving user agency._
 
   </div>
 </div>
@@ -72,8 +72,10 @@ ProactiveFlow: Coordinating Proactive AI Support for Sketch-Based Ideation
 
 NetworkCanvas: Supporting Progressive Network Visualization Exploration via
 Adaptive Recommendations
+
 Wenchao Li, **Yuewen Gao**, Yu He, Cong Zhu, Ke Xu
-NetworkCanvas is an adaptive, AI-assisted exploration system for complex networks. It combines interactive visualization, recommendation guidance, and a traceable exploration history tree to support progressive, explainable network analysis.
+
+_NetworkCanvas is an adaptive, AI-assisted exploration system for complex networks. It combines interactive visualization, recommendation guidance, and a traceable exploration history tree to support progressive, explainable network analysis._
 </div>
 </div>
 
